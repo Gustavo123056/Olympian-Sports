@@ -1,0 +1,273 @@
+.pagina{
+
+  margin: 0px;
+  background-color: aliceblue;
+  width: 100vw;
+  height: 100vh;
+  overflow-x: hidden;
+
+  .pesquisa{
+
+  height: 40px;
+  width: 40px;
+
+  }
+
+
+  .fundo1{
+
+  background-color: #5170AA;
+  width: 100%;
+  height: 11vh;
+  display: flex;
+  justify-content: flex-start;
+
+  }
+    
+
+  .logo{
+  margin-top: 3px;
+  display: flex;
+  width: 70px;
+  height: 60px;
+    
+  }
+
+  .tutu{
+
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  width: 500px;
+  height: 40px;
+
+  }
+  
+  .bara{
+
+
+  margin-top: 25px;
+  width: 30vw;
+  height: 45px;
+  border-color: white ;
+
+  }
+
+  .tata{
+    background-color: #EFEA76; 
+    opacity: 39%;
+
+    display: flex;
+    align-items: center;
+    margin-top: 25px;
+    width:45px ;
+    height:46px ;
+    }
+
+  .imgPerfil{
+
+  display: flex;
+  justify-content:center;
+  align-items: center;
+  height: 60px;
+  width: 80px;
+
+ }
+
+  .perfil{
+
+   display: flex;
+
+  }
+
+  .rere{
+
+  font-size: large;
+
+  }
+
+  .nomePerfil{
+
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 60px;
+  width: 120px;
+
+  }
+
+  .coracao1{
+
+  display: flex;
+  height: 60px;
+  width: 80px;
+  justify-content: center;
+  align-items: center;
+
+  }
+
+  .carrinho{
+
+  display: flex;
+  height: 60px;
+  width: 80px;
+  justify-content: center;
+  align-items: center;
+
+  }
+
+.promocao{
+  display: flex;
+  height: 60px;
+  width: 80px;
+  }
+
+.separar-rodape{
+
+display: flex;
+justify-content: space-between;
+
+}
+
+.font-rodape{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  font-size: medium;
+
+  text-decoration: underline;
+}
+
+.fundo-outros{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  width: 100px;
+  height: 35px;
+  background-color: red;
+}
+
+.linha{
+  background-color: brown;
+  width: 100vw;
+  height: 3px;
+}
+
+
+
+
+
+
+.layout{
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+}
+
+.te{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background-size: cover;
+  width: 100vw;
+  height: 250px;
+}
+
+.secao-layout{
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  background-color: rgb(255, 255, 255);
+  width: 250px;
+  height: 150px;
+}
+
+.texto-pro{
+  color: rgb(255, 217, 0);
+  
+font-size: 30px;
+font-style: italic;
+font-weight: 400;
+line-height: 40px; /* 62.5% */
+}
+
+.texto-prim{
+  color: yellowgreen;
+  
+font-size: 30px;
+font-style: italic;
+font-weight: 400;
+line-height: 40px; /* 62.5% */
+}
+
+.texto-ver{
+  color: pink;
+}
+
+
+
+
+
+
+.img-cesta{
+  margin-top: 50px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  width: 100vw;
+  height: 300px;
+  background-size: cover;
+}
+
+.separar-basq{
+  display: flex;
+  flex-direction: row;
+  margin-left: 30px;
+ 
+}
+
+.texto-basq{
+  color: rgb(255, 123, 0);
+  margin-left: 30px;
+}
+
+.texto-ate{
+  color: rgba(255, 255, 255, 0.911);
+  font-size: 30px;
+  margin-left: 5px;
+}
+
+.texto-pre{
+  color: white;
+  font-size: 50px;
+  margin-left: 5px;
+}
+
+.texto-off{
+  color: white;
+  font-size: 30px;
+  margin-right: 5px;
+}
+
+
+
+
+
+
+
+
+
+.layout-mvenda{
+  margin-top: 20px;
+}
+
+.texto-pqbp{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+
+
+}
